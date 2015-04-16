@@ -1,7 +1,8 @@
-// Allegro Round One.cpp : Defines the entry point for the console application.
-//
-int main()
+#include <allegro5\allegro.h>
+#include <allegro5\allegro_native_dialog.h>
+
+int main(void)
 {
-	return 0;
+	
 }
 
